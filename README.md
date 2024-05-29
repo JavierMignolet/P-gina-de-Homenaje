@@ -1,13 +1,13 @@
 
 # Título del proyecto
-Página de Homenaje 
+Pagina de Homenaje 
 ## Ejemplo en vivo
 - [URL-de-github-pages-de-este-proyecto](URL-de-github-pages-de-este-proyecto)
 - [URL-de-la-api](URL-de-la-api)
 
 ## Descripción 📑
 
-Dentro de mis proyectos podemos encontrar una página homenaje creado a partir de HTML y CSS.
+Dentro de mis proyectos podemos encontrar una pagina homenaje creado a partir de HTML y CSS.
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻 
 
